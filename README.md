@@ -46,7 +46,7 @@
         <section id="home">
             <div class="article">
                 <h2>Chào Mừng Mùa Xuân 2025!</h2>
-                <img src="https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/473568118_3406960556104488_2717152780966980611_n.png?stp=dst-jpg_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2285d6&_nc_ohc=Teg7Ss25plgQ7kNvgGuyMlQ&_nc_oc=AdiuIDxW9sLJr13m5bdFtMMfaG8U9ikYTV8D18dC1lDD4eeUHUDSLdzrIhgVR9Z3uZ0&_nc_zt=23&_nc_ht=scontent.fdad3-5.fna&_nc_gid=AqsrYz5Sy1HodAkp6_A2wxc&oh=00_AYBWnMW8gp_slNIZj-2yyYBztMvRn3va_Y0Ce9ErxgL2VA&oe=67B42A94" alt="Mùa xuân 2025">
+                <img src="anhbotoc.jpg" alt="Mùa xuân 2025">
                 <p>Mùa xuân 2025 đến mang theo khí trời ấm áp, sắc hoa khoe sắc và những niềm vui mới. Đây là thời điểm lý tưởng để mọi người cùng nhau nhìn lại những thành tựu trong năm cũ và chuẩn bị cho những kế hoạch mới trong năm mới.</p>
             </div>
         </section>
