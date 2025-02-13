@@ -46,7 +46,7 @@
         <section id="home">
             <div class="article">
                 <h2>Chào Mừng Mùa Xuân 2025!</h2>
-                <img src="anhbotoc.jpg" alt="Mùa xuân 2025">
+                <img src="images/anhbotoc.jpg" alt="Mùa xuân 2025">
                 <p>Mùa xuân 2025 đến mang theo khí trời ấm áp, sắc hoa khoe sắc và những niềm vui mới. Đây là thời điểm lý tưởng để mọi người cùng nhau nhìn lại những thành tựu trong năm cũ và chuẩn bị cho những kế hoạch mới trong năm mới.</p>
             </div>
         </section>
